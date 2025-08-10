@@ -7,4 +7,5 @@
 1.Create project with node.js and express.js in `backend`.
 2.`npm init -y`
 3.`npm install express mongoose dotenv bcrypt jsonwebtoken cors morgan`
-4.npm install `nodemon`
+4.`npm install nodemon`
+5.`npm run dev`
