@@ -1,7 +1,7 @@
 # frontend
 1. Create project with Vite or copy these files into `frontend/`.
 2. `npm install`
-3. Copy `.env.example` to `.env` and set VITE_API_URL if needed.
+3. Copy `.env` and set VITE_API_URL if needed.
 4. `npm run dev`
 # backend
 1.Create project with node.js and express.js in `backend`.
